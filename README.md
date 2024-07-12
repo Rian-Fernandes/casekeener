@@ -47,9 +47,22 @@
     <h2>Utilizando a aplicação no navegador</h2>
       <ol>
         <li>Abra seu navegador e vá para <code>http://localhost:5000/Conta/Cadastro</code>.</li>
+          <img src="/assetsrdme/cadastrocase.png" alt="" width="300">
         <li>Faça seu cadastro, e após isso, entre com as credenciais na página de login.</li>
+          <img src="/assetsrdme/logincase.png" alt="" width="300">
         <li>Após o login, você terá acesso às funcionalidades de cadastro, listagem e controle de produtos e categorias.</li>
+          <img src="/assetsrdme/cadastroprodutocase.png" alt="" width="300">
+          <img src="/assetsrdme/listagemprodutoscase.png" alt="" width="300">
+          <img src="/assetsrdme/cadastrocategoria.png" alt="" width="300">
+          <img src="/assetsrdme/listagemcategoriascase.png" alt="" width="300">
     </ol>
    <ol> 
+       <h2>Observações</h2>
+<p>Foi necessário fazer o uso de alguns recursos pra a conclusão do case:</p>
+<ul>
+    <li>O uso de uma versão mais antiga do SDK, visto que em versões mais recentes o meu arquivo Startup.cs não era gerado;</li>
+    <li>A utilização do SQLite como banco de dados, pelo fato do computador não conseguir suportar abrir o banco de dados padrão como postgres ou mysql;</li>
+    <li>Obrigado pela oportunidade!</li>
+</ul>
 </body>
 </html>

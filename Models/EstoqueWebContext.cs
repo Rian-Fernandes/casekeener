@@ -6,7 +6,7 @@ namespace casekeener.Models
     {
         public DbSet<CategoriaModel> Categorias { get; set; }
         public DbSet<ProdutoModel> Produtos { get; set; }
-        
+        public DbSet<UsuarioModel> Usuarios { get; set; }
 
         public EstoqueWebContext(DbContextOptions<EstoqueWebContext> options)
             : base(options)
@@ -15,8 +15,9 @@ namespace casekeener.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<CategoriaModel>().ToTable("Categoria");   
+            modelBuilder.Entity<CategoriaModel>().ToTable("Categoria");
             modelBuilder.Entity<ProdutoModel>().ToTable("Produto");
+            modelBuilder.Entity<UsuarioModel>().ToTable("Usuario");
         }
     }
 }

@@ -45,7 +45,7 @@ namespace casekeener.Controllers
          [HttpPost]
         public async Task<IActionResult> Cadastrar(int? id, [FromForm] CategoriaModel categoria)
         {
-if (ModelState.IsValid)
+        if (ModelState.IsValid)
             {
                 if (id.HasValue)
                 {

@@ -388,3 +388,9 @@ c:\Users\Rian\Desktop\casekeener\obj\Debug\net5.0\Razor\Views\Categoria\Excluir.
 c:\Users\Rian\Desktop\casekeener\obj\Debug\net5.0\Razor\Views\Produto\Cadastrar.cshtml.g.cs
 c:\Users\Rian\Desktop\casekeener\obj\Debug\net5.0\Razor\Views\Produto\Index.cshtml.g.cs
 c:\Users\Rian\Desktop\casekeener\obj\Debug\net5.0\Razor\Views\Produto\Excluir.cshtml.g.cs
+c:\Users\Rian\Desktop\casekeener\bin\Debug\net5.0\casekeener.StaticWebAssets.xml
+c:\Users\Rian\Desktop\casekeener\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+c:\Users\Rian\Desktop\casekeener\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+c:\Users\Rian\Desktop\casekeener\obj\Debug\net5.0\Razor\Views\Conta\Cadastro.cshtml.g.cs
+c:\Users\Rian\Desktop\casekeener\obj\Debug\net5.0\Razor\Views\Conta\Login.cshtml.g.cs
+c:\Users\Rian\Desktop\casekeener\obj\Debug\net5.0\Razor\Views\_LayoutNoNav.cshtml.g.cs
